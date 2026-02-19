@@ -1,0 +1,9 @@
+{
+	"name": "vsdfactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "24ac0194-b93c-4afe-86a6-7424542b24e3",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
